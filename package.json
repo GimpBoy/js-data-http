@@ -73,7 +73,7 @@
     "js-data": ">= 3.0.0"
   },
   "dependencies": {
-    "js-data-adapter": "github:GimpBoy/js-data-adapter#master",
+    "js-data-adapter": "github:GimpBoy/js-data-adapter#master"
   },
   "devDependencies": {
     "axios": "0.16.2",
